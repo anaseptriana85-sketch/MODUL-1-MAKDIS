@@ -26,6 +26,7 @@
 -  Metode pembayaran
 
 -  Alur Materi
+  
 -  AND
 -  OR
 -  XOR
