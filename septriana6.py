@@ -1,9 +1,8 @@
-total_belanja = 75000
-voucher = True
-
-gratis_ongkir = total_belanja or voucher
-
-if gratis_ongkir:
-   print("MENDAPATKAN GRATIS ONGKIR")
+# Percobaan 1
+pengalaman = False
+sertifikat = True
+prioritas = pengalaman or sertifikat
+if prioritas:
+   print("peserta mendapat PRIORITAS")
 else:
-  print(" TIDAK MENDAPATKAN GRATIS ONGKIR")
+  print(" peserta tidak mendapat PRIORITAS")
