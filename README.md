@@ -14,9 +14,9 @@
 -  Seleksi Beasiswa
 -  Seleksi masuk Perkuliahan
 -  Login Sistem
--  Diskon Tokoh
+-  Diskon Toko
 -  Mengikuti Ujian Susulan
--  Grati Ongir
+-  prioritas seleksi
 -  Jalur pendaftaran
 -  Metode pembayaran
 
